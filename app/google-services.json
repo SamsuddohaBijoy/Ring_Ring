@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497032663312",
+    "project_id": "ring-4d949",
+    "storage_bucket": "ring-4d949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497032663312:android:8fa999e4c56fe0a3501595",
+        "android_client_info": {
+          "package_name": "com.bijoy.ringring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497032663312-i3dqu354t6auoo7retpl9aepc9pv2kt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoqvhVY2ybMYL80h6jLtmDjqzQ7D3Rhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497032663312-i3dqu354t6auoo7retpl9aepc9pv2kt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
